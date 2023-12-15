@@ -1,0 +1,46 @@
+[data-md-color-scheme="dark"] {
+  /* Default color shades */
+  --md-default-fg-color: #bdae93;
+  --md-default-fg-color--light: #ebdbb2;
+  --md-default-fg-color--lightest: #ebdbb2;
+  --md-default-bg-color: #282828;
+  --md-default-bg-color--dark: #212121;
+
+  /* Primary color shades */
+  --md-primary-fg-color: var(--md-default-bg-color);
+  --md-primary-bg-color: var(--md-default-fg-color--light);
+  --md-primary-bg-color--light: var(--md-default-fg-color--light);
+  /* Accent color shades */
+  --md-accent-fg-color: #f2db6b;
+
+  /* Code color shades */
+  --md-code-fg-color: var(--md-default-fg-color--light);
+  --md-code-bg-color: var(--md-default-bg-color--dark);
+  --md-code-hl-color: var(--md-default-fg-color--light);
+  /* --md-code-hl-number-color: rgb(0, 19, 160); */
+  /* --md-code-hl-special-color: green; */
+  --md-code-hl-function-color: #81c07c;
+  /* --md-code-hl-constant-color: green; */
+  --md-code-hl-keyword-color: #fb462f;
+  --md-code-hl-string-color: #b3bb26;
+  --md-code-hl-name-color: #6e59d9;
+  --md-code-hl-operator-color: var(--md-default-fg-color--light);
+  --md-code-hl-punctuation-color: var(--md-default-fg-color--light);
+  --md-code-hl-comment-color: #928374;
+  /* --md-code-hl-generic-color: green; */
+  /* --md-code-hl-variable-color: green; */
+
+  /* Typeset color shades */
+  --md-typeset-color: var(--md-default-fg-color--light);
+  --md-typeset-a-color: var(--md-default-fg-color);
+
+  /* Footer color shades */
+  --md-footer-bg-color: var(--md-default-bg-color);
+  --md-footer-fg-color: var(--md-accent-fg-color);
+  --md-footer-fg-color--light: var(--md-default-fg-color);
+  --md-footer-fg-color--lighter: var(--md-default-fg-color--light);
+  color-scheme: dark;
+}
+.md-search-result__meta {
+  background: none;
+}
