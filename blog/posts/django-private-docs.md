@@ -190,4 +190,4 @@ In this article, I showed you how to create private documentation using Django a
 
 ## Final Project
 
-You can find the final project on [GitHub](https://https://github.com/SpaceShaman/django-private-docs).
+You can find the final project on [GitHub](https://github.com/SpaceShaman/django-private-docs).
