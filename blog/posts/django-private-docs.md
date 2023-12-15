@@ -186,7 +186,7 @@ Congratulations! Your project is now ready. All you need to do is generate the d
 
 ## Summary
 
-In this article, I showed you how to create private documentation using Django and Material for MkDocs. If you have any questions or comments, please post them in the comments section below. If you want to stay up-to-date with my articles, add my blog to your favorite RSS feeds. See you in the next article!
+In this article, I showed you how to create private documentation using [Django](https://www.djangoproject.com/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). If you have any questions or comments, please post them in the comments section below. If you want to stay up-to-date with my articles, add my blog to your favorite RSS feeds. See you in the next article!
 
 ## Final Project
 
