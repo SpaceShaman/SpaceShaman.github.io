@@ -60,7 +60,7 @@ The first step is to create a Django project and an application to display the d
 
 5. Add the path to the `assets` folder of the documentation to the static files of Django (without this, images will not be displayed)
 
-    ``` python linenums="1" hl_lines="4"
+    ``` python linenums="1" hl_lines="5"
     # private_docs/settings.py
     STATIC_ROOT = os.path.join(BASE_DIR, ".static")
     STATIC_URL = '/static/'
