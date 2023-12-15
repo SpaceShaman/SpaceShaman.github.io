@@ -9,7 +9,7 @@ categories:
     - Django
 ---
 
-# Createing private documentation with Django and MkDocs
+# Creating private documentation with Django and MkDocs
 
 In this article, I will show you how to create private documentation that can only be accessed by users with the appropriate permissions. We will use Django: [Django](https://www.djangoproject.com/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
